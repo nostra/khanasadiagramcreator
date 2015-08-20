@@ -1,4 +1,4 @@
-FROM dockerfile/java:oracle-java8
+FROM relateiq/oracle-java8
 
 # Install maven
 RUN apt-get update
